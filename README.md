@@ -12,7 +12,7 @@
 🔸 Специальность: Прикладная информатика
 
 🔸 Год окончания: 2020
-## Сертификаты
+
 ## 💻 Навыки 💻
 [![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&style=flat-square&logoColor=white)](https://nginx.org/)
