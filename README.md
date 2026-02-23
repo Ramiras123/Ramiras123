@@ -1,19 +1,11 @@
-## 👨‍💼 Профессиональный заголовок 👨‍💼
 ### Frontend Developer 💻
 
-## 📋 Обзор профессионального профиля 📋
-🔹 Стрессоустойчивый программист с опытом работы в команде. 🚀
+## 📋 Professional Profile Overview 📋
+🔹 A stress-resistant programmer with experience working in a team. 🚀
 
-🔹 Основные навыки: разработка Сервиса сравнения курсов, используя API от courses-top, технологии: React, Next, React-Hook-Forms, Typescript, Webpack. 
+🔹 Core skills: developing a Course Comparison Service using the courses-top API, technology: React, Next, React-Hook-Forms, Typescript, Webpack, Claude code, Cursor. 
 
-## 🎓 Образование 🎓
-🔸 Орловский государственный университет
-
-🔸 Специальность: Прикладная информатика
-
-🔸 Год окончания: 2020
-
-## 💻 Навыки 💻
+## 💻 Skills 💻
 [![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&style=flat-square&logoColor=white)](https://nginx.org/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
@@ -23,15 +15,11 @@
 
 
 
-## 🚀 Проекты 🚀
-🔸 [Сервис сравнения курсов:TS,React,Next](https://github.com/Ramiras123/top-nextjs)
+## 🚀 Projects 🚀
+🔸 [Course comparison service:TS,React,Next](https://github.com/Ramiras123/top-nextjs)
 
-🔸 [Сервис по доставки еды:TS,React,Redux toolkit](https://github.com/Ramiras123/delivery-app)
+🔸 [Food delivery service: TS,React,Redux toolkit](https://github.com/Ramiras123/delivery-app)
 
-🔸 [Сервис todo: TS, React, Redux toolkit](https://github.com/Ramiras123/todo)
+🔸 [Todo service: TS, React, Redux toolkit](https://github.com/Ramiras123/todo)
 
-🔸 [Сервис Library Search: vanile js](https://github.com/Ramiras123/library_project)
-
-
-## Статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramiras123&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+🔸 [Library Search Service: vanile js](https://github.com/Ramiras123/library_project)
