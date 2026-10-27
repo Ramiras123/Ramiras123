@@ -14,12 +14,3 @@
 ![Typescript](https://img.shields.io/badge/-typescript-2496ED?style=flat-square&logo=TS&logoColor=black)
 
 
-
-## 🚀 Projects 🚀
-🔸 [Course comparison service:TS,React,Next](https://github.com/Ramiras123/top-nextjs)
-
-🔸 [Food delivery service: TS,React,Redux toolkit](https://github.com/Ramiras123/delivery-app)
-
-🔸 [Todo service: TS, React, Redux toolkit](https://github.com/Ramiras123/todo)
-
-🔸 [Library Search Service: vanile js](https://github.com/Ramiras123/library_project)
